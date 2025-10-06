@@ -1,4 +1,7 @@
-# Melusine Caillard
+---
+layout: default
+title: Welcome
+---
 
 ## About me
 
