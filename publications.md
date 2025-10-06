@@ -18,6 +18,6 @@ Accepted for ICAPP 2025 (International Congress on Advances in Nuclear Power Pla
 2024 – Journal Article (Awarded)
 Identification des tendances dans l’industrie ferroviaire à l’aide de techniques d’apprentissage automatique non supervisées. Technological Foresight in Railways: AI, TRIZ and Trend Detection.
 Mélusine Caillard, Pierre-Emmanuel Fayemi
-Published in the International Journal of Design and Innovation Research (IJODIR).
 Presented at CONFERE24
+Published in the International Journal of Design and Innovation Research (IJODIR).
 Best Article Award – Master Category (CONFERE24)
