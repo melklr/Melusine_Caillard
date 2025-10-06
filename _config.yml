@@ -1,0 +1,8 @@
+title: "Melusine Caillard Portfolio"
+description: "My personal portfolio built with Jekyll"
+baseurl: ""
+u: "https://melklr.github.io/Melusine_Caillard"
+theme: minima
+collections:
+  projects:
+    output: true
