@@ -1,15 +1,15 @@
-# Melusine Caillard
-
-Bienvenue sur mon site de chercheuse.
+# Mélusine Caillard
 
 ## À propos
 
-Je suis chercheuse avec un intérêt pour l’intelligence artificielle, le big data, l’analyse de données, et le machine learning. Je partage ici mon parcours, mes publications et mon curriculum vitae.
+I am a French engineer and PhD student in natural language processing and technology foresight. After graduating from ESME Sudria, I began a CIFRE PhD jointly conducted at Sorbonne Université / Arts et Métiers and IKOS Consulting.
+My work focuses on using AI and NLP to detect emerging technological trends, assess innovation maturity, and support strategic decision-making in sectors such as rail transport and energy. I combine machine learning, TRIZ design theory, and semantic analysis to build tools that map innovation landscapes and anticipate future developments.
 
 - [Voir mon CV](cv.md)
 - [Publications](publications.md)
 
 ## Contact
 
-- Email : melusine.caillard@esme.fr  
+- Email 1 : melusine.caillard@etu.sorbonne-universite.fr
+- Email 2 : mcaillard@ikosconsulting.com  
 - LinkedIn : [melusine-caillard](https://www.linkedin.com/in/melusine-caillard)
