@@ -1,12 +1,23 @@
 # Publications
 
-Retrouvez ici une sélection de mes travaux scientifiques.
+2025 – Conference Paper (Submitted/Accepted)
+Evaluating LLM Performance in TRIZ-Based System Forecasting: A Study Using 9-Windows
+Mélusine Caillard, Giacomo Bersano, Gaston Opler, Pierre-Emmanuel Fayemi
+Presented at TRAI 2025 (Technology, Research & AI Innovation Conference).
 
-_N’hésitez pas à me contacter pour toute demande d’article ou de collaboration._
+2025 – Conference Contribution
+Technological Trends in Railways: A Sub-Clustering Approach
+Mélusine Caillard
+Submitted to the ERRAC PAG / EURNEX / Europe’s Rail 2025 Student Competition.
 
-**Exemples (à remplacer par vos publications) :**
+2025 – Conference Paper
+Design Theory Applied to SMR Technology Forecasting
+Gaston Opler, Mélusine Caillard, Lucie Jorge, Giacomo Bersano
+Accepted for ICAPP 2025 (International Congress on Advances in Nuclear Power Plants).
 
-- Caillard, M. et al. (2024). “Titre de la publication.” _Nom de la revue_, 12(3), 123-145.
-- Caillard, M., Collaborateur, N. (2023). “Autre titre.” _Conférence Internationale_, Paris.
-
-_Ajoutez ici la liste de vos publications, ou envoyez-moi vos références pour un affichage détaillé._
+2024 – Journal Article (Awarded)
+Identification des tendances dans l’industrie ferroviaire à l’aide de techniques d’apprentissage automatique non supervisées. Technological Foresight in Railways: AI, TRIZ and Trend Detection.
+Mélusine Caillard, Pierre-Emmanuel Fayemi
+Published in the International Journal of Design and Innovation Research (IJODIR).
+Presented at CONFERE24
+Best Article Award – Master Category (CONFERE24)
