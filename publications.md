@@ -1,11 +1,12 @@
 # Publications
 
-2025 – Conference Paper (Submitted/Accepted)
+2025 – Conference Paper
 Evaluating LLM Performance in TRIZ-Based System Forecasting: A Study Using 9-Windows
 Mélusine Caillard, Giacomo Bersano, Gaston Opler, Pierre-Emmanuel Fayemi
-Presented at TRAI 2025 (Technology, Research & AI Innovation Conference).
+Presented at TRAI 2025 (TRIZ+AI, old Triz Future Conference)
+DOI : 10.1007/978-3-032-08847-5_8
 
-2025 – Conference Contribution
+2025 – Abstract Student Competition
 Technological Trends in Railways: A Sub-Clustering Approach
 Mélusine Caillard
 Submitted to the ERRAC PAG / EURNEX / Europe’s Rail 2025 Student Competition.
