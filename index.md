@@ -9,9 +9,9 @@ I am a French engineer and PhD student in natural language processing and techno
 My work focuses on using AI and NLP to detect emerging technological trends, assess innovation maturity, and support strategic decision-making in sectors such as rail transport and energy. I combine machine learning, design theory, and semantic analysis to build tools that map innovation landscapes and anticipate future developments.
 
 - [Publications](publications.md)
-- [Curiculum Vitae](cv.md)
+- [CV](cv.md)
 
 ## Contact
 
 - Email : melusine.caillard@etu.sorbonne-universite.fr  /   mcaillard@ikosconsulting.com
-- LinkedIn : [melusine-caillard](www.linkedin.com/in/mélusine-caillard)
+- LinkedIn : [melusine-caillard](https://www.linkedin.com/in/mélusine-caillard)
