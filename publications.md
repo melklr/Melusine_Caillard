@@ -2,12 +2,19 @@
 2026 – Conference Paper
 Learning and Recognizing Latent Innovation Maturity Indicator Patterns in Texts
 Mélusine Caillard, Gaël Lejeune, Pierre-Emmanuel Fayemi, Améziane Aoussat
-Accepted at ICPR 2026 (International Conference on Pattern Recognition)
+Presented at ICPR 2026 (28th International Conference on Pattern Recognition)
+https://doi.org/10.1007/978-3-032-31441-3_45
 
 2026 – Conference Paper
 Discourse structure across technological maturity levels: a textometric approach
 Mélusine Caillard, Gaël Lejeune
-Accepted at JADT 2026 (International Conference on Statistical Analysis of Textual Data)
+Presented at JADT 2026 (International Conference on Statistical Analysis of Textual Data)
+https://hal.science/hal-05665257
+
+2026 – Conference Paper
+Inferring Technological Maturity from Text: A Descriptive Study
+Mélusine Caillard, Améziane Aoussat, Gaël Lejeune, Pierre-Emmanuel Fayemi
+Presented at CONFERE26 – Forthcoming in the International Journal of Design and Innovation Research (IJODIR).
 
 2025 – Conference Paper
 Evaluating LLM Performance in TRIZ-Based System Forecasting: A Study Using 9-Windows
