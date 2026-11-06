@@ -1,7 +1,7 @@
 title: Mélusine Caillard
 description: Researcher in natural language processing and technological foresight.
-url: ""
-baseurl: ""
+url: "https://melklr.github.io"
+baseurl: "/Melusine_Caillard"
 markdown: kramdown
 permalink: pretty
 
