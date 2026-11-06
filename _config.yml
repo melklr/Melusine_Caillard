@@ -1,0 +1,12 @@
+title: Mélusine Caillard
+description: Researcher in natural language processing and technological foresight.
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
