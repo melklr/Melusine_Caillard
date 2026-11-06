@@ -5,8 +5,8 @@ title: About
 
 <section class="hero">
   <div>
-    <p class="eyebrow">Researcher · Engineer · PhD student</p>
-    <h1>Making sense of what comes next.</h1>
+    <p class="eyebrow">Researcher, engineer and PhD student</p>
+    <h1>Welcome to my page.</h1>
   </div>
   <p class="hero-intro">I study how <strong>AI, language and design theory</strong> can reveal emerging technological trends and help organizations make better strategic decisions.</p>
 </section>
